@@ -1,0 +1,2 @@
+class HiveType(type):
+    pass
